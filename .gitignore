@@ -1,0 +1,14 @@
+# Build-Ergebnisse
+dist/
+build/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+
+# Niemals Spielstände oder Profile einchecken
+*.sav
+*.bkm
+profile.bin
+BioShockProfiles/
